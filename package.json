@@ -71,7 +71,7 @@
     "spawn-sync": "^2.0.0"
   },
   "dependencies": {
-    "@apidevtools/swagger-parser": "github:APIDevTools/swagger-parser",
+    "@apidevtools/swagger-parser": "https://github.com/APIDevTools/swagger-parser.git#main",
     "chalk": "^4.1.0",
     "js-yaml": "^3.14.0",
     "yargs": "^15.4.1"
